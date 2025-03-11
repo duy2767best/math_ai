@@ -1,0 +1,7 @@
+{
+  "type": "node",
+  "request": "launch",
+  "name": "Launch Node.js",
+  "skipFiles": ["<node_internals>/**"],
+  "program": "${workspaceFolder}/app.js"
+}
